@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Cyber Shield -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,26L78,36L78,56C78,71 68,84 54,89C40,84 30,71 30,56L30,36Z" />
+    <!-- Inner Dark Shield Cutout -->
+    <path
+        android:fillColor="#0A192F"
+        android:pathData="M54,30L74,38.5L74,55.5C74,68.5 65.5,79.5 54,84C42.5,79.5 34,68.5 34,55.5L34,38.5Z" />
+    <!-- Center Padlock Body & Shackle -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M48,51L48,46C48,42.7 50.7,40 54,40C57.3,40 60,42.7 60,46L60,51L63,51C64.1,51 65,51.9 65,53L65,67C65,68.1 64.1,69 63,69L45,69C43.9,69 43,68.1 43,67L43,53C43,51.9 43.9,51 45,51L48,51ZM51,51L57,51L57,46C57,44.3 55.7,43 54,43C52.3,43 51,44.3 51,46L51,51Z" />
+    <!-- Keyhole / Core Node -->
+    <path
+        android:fillColor="#0A192F"
+        android:pathData="M54,58C55.1,58 56,57.1 56,56C56,54.9 55.1,54 54,54C52.9,54 52,54.9 52,56C52,57.1 52.9,58 54,58ZM55,59L53,59L52.5,64L55.5,64L55,59Z" />
+</vector>

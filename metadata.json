@@ -1,0 +1,6 @@
+{
+  "name": "CyberLab",
+  "description": "Presidency University Cyber Security Club session platform featuring speaker Alkamah Sakilur Rashid's 8 curriculum pillars, interactive slides, isolated sandboxes (SQLi, XSS, MITM, Crypto, Phishing), real-time peer discussion forum, and automated grading reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
